@@ -2,7 +2,7 @@
 Creating first repository on GitHub.
 
 Presently, I am a copyeditor and proofreader.
-I am learning how to code with the intention of changing the trajectory of my life with regard to the work that I do and the career that I pursue. The is my first day using GitHub and Learn.co.
+I am learning how to code with the intention of changing the trajectory of my life with regard to the work that I do and the career that I pursue. This is my first day using GitHub and Learn.co.
 
 I am interested in cartography, maps, and urban planning.
 
